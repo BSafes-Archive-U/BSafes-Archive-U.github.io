@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  
+title:  II. A SCREENSHOT OF STUDENTS’ FIRST AMENDMENT RIGHTS
 parent: § Unfriending Tinker - The Third Circuit Holds Schools Cannot Regulate Off-Campus Social Media Speech   
 grand_parent: U 
 nav_order: 20 
